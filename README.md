@@ -38,7 +38,7 @@ git remote add origin git@github.com:YOUR-USERNAME/problem-set-5.git
 10. Select `Git > Projects from Git`, and click `Next >`.
 11. Select `Existing local repository` and click `Next >`.
 12. Click the `Add...` button, and then the `Browse...` button.
-13. Navigate to the `APCSA` folder on your `Desktop`, click the `pset4` project folder, and click `Open`.
+13. Navigate to the `APCSA` folder on your `Desktop`, click the `pset5` project folder, and click `Open`.
 14. Select the checkbox next to your project and click `Finish`.
 15. Now that we've imported the Git project, we can click `Next >`, `Next >`, and `Finish` once more.
 
