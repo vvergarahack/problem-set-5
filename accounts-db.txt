@@ -1,0 +1,9 @@
+1000000011234123.45       Wilson, Ryan                    197001015555555555123 Main Street               Scotch Plains                 NJ07076
+1000000025678678.90       Wilson, Ryan                    197001015555555555123 Main Street               Scotch Plains                 NJ07076
+10000000390121234.56      Wilson, Ryan                    197001015555555555123 Main Street               Scotch Plains                 NJ07076
+10000000434567890.12      Wilson, Ryan                    197001015555555555123 Main Street               Scotch Plains                 NJ07076
+100000005789012345.67     Wilson, Ryan                    197001015555555555123 Main Street               Scotch Plains                 NJ07076
+100000006432189012.34     Wilson, Ryan                    197001015555555555123 Main Street               Scotch Plains                 NJ07076
+10000000787651.23         Wilson, Ryan                    197001015555555555123 Main Street               Scotch Plains                 NJ07076
+10000000801234.56         Wilson, Ryan                    197001015555555555123 Main Street               Scotch Plains                 NJ07076
+10000000909870.00         Wilson, Ryan                    197001015555555555123 Main Street               Scotch Plains                 NJ07076
