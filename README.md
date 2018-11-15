@@ -106,10 +106,10 @@ Including in this repository is a file called `accounts-db.txt`. This is a fixed
 | Name | 32 characters wide (formatted as Last, First). Last names are 20 characters wide, first names are 10 characters wide, and 2 characters are devoted to the comma and space between last and first names. |
 | Date of Birth | 8 characters wide (format: YYYYMMDD). |
 | Phone Number | 10 characters wide (format: ##########). |
-| Street Address | 30 characters wide. |
-| City | 30 characters wide. |
+| Street Address | 30 characters wide (i.e., 1776 Raritan Road). |
+| City | 30 characters wide (i.e., Scotch Plains). |
 | State | 2 characters wide (i.e., NJ). |
-| Postal Code | 5 characters wide. |
+| Postal Code | 5 characters wide (i.e., 07076). |
 | Account Status | 1 character wide (Y for open accounts, N for closed accounts). |
 
 ### ATM
