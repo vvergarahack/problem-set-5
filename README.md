@@ -116,10 +116,11 @@ Including in this repository is a file called `accounts-db.txt`. This is a fixed
 
 The `ATM` class is responsible for managing the interaction between the customer and ATM. Most of the logic will be implemented in this class. It should meet the specifications outlined below.
 
-* Display a simple menu.
+* Display a simple main menu.
    - Open account
    - Login
-* Display a more complex menu after logging in.
+   - Quit
+* Display a more complex submenu after logging in.
    - Deposit funds
    - Withdraw funds
    - Transfer funds
@@ -129,6 +130,8 @@ The `ATM` class is responsible for managing the interaction between the customer
    - Close account
    - Logout
 * Respond accordingly to each of the menu options.
+
+The expected inputs for a program like this will understandably vary. It is your responsibility to handle this. Your program needs to be able to handle anything a customer might throw at it. Simply put, it should never crash.
 
 ### Tester
 
