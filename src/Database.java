@@ -86,7 +86,7 @@ public class Database {
 			
 			if (destination != null) {
 				if (accounts[i].startsWith(String.valueOf(destination.getAccountNumber()))) {
-					accounts[i] = account.toString();
+					accounts[i] = destination.toString();
 				}
 			}
 		}
